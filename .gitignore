@@ -6,7 +6,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### STS ###
 .apt_generated
 .classpath
 .factorypath
@@ -15,13 +14,11 @@ target/
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
 
-### NetBeans ###
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -31,5 +28,35 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+/rabbitmq-orders/hs_err_pid*
+
+/rabbitmq-orders/HELP.md
+/rabbitmq-orders/target/
+/rabbitmq-orders/!.mvn/wrapper/maven-wrapper.jar
+/rabbitmq-orders/!**/src/main/**/target/
+/rabbitmq-orders/!**/src/test/**/target/
+
+/rabbitmq-orders/.apt_generated
+/rabbitmq-orders/.classpath
+/rabbitmq-orders/.factorypath
+/rabbitmq-orders/.project
+/rabbitmq-orders/.settings
+/rabbitmq-orders/.springBeans
+/rabbitmq-orders/.sts4-cache
+
+/rabbitmq-orders/.idea
+/rabbitmq-orders/*.iws
+/rabbitmq-orders/*.iml
+/rabbitmq-orders/*.ipr
+
+/rabbitmq-orders/nbproject/private/
+/rabbitmq-orders/nbbuild/
+/rabbitmq-orders/dist/
+/rabbitmq-orders/nbdist/
+/rabbitmq-orders/.nb-gradle/
+/rabbitmq-orders/build/
+/rabbitmq-orders/!**/src/main/**/build/
+/rabbitmq-orders/!**/src/test/**/build/
+
 .vscode/
+/rabbitmq-orders/.vscode
